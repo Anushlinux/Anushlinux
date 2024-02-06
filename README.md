@@ -4,17 +4,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<img align = "center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
+<img align = "left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
 
-- 🔭 I’m currently working on **Machine Learning**
+ 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **React**
+ 👯 I’m looking to collaborate on **ML Projects**
 
-- 👯 I’m looking to collaborate on **ML Projects**
-
-- 💬 Ask me about **JS**
-
-- 📫 How to reach me **anushrutpandit@gmail.com**
+ 📫 How to reach me **anushrutpandit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,7 +81,7 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Anushlinux&show_icons=true&theme=algolia)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushlinux&theme=tokyonight" alt="anushlinux" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushlinux&theme=algolia" alt="anushlinux" /></p>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=2077" alt="AnushrutPandit" width="50%"   />
 
