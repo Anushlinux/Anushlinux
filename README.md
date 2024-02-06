@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<a href="https://www.youtube.com/results?search_query=never+gonna+give+you+up"><img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="animated hello">
+<a href="https://www.youtube.com/results?search_query=never+gonna+give+you+up"><img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="animated hello">
 
 ----------------------------------------------------------------
 
