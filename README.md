@@ -11,9 +11,9 @@
   
  🔭 I’m currently working on Machine Learning
 
- 👯 I’m looking to collaborate on - ML Projects
+ 👯 I’m looking to collaborate on- ML Projects
 
- 📫 How to reach me anushrutpandit@gmail.com
+ 📫 How to reach me- anushrutpandit@gmail.com
  
 </div>
 
@@ -90,5 +90,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushlinux&theme=algolia" alt="anushlinux" /></p>
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=2077" alt="AnushrutPandit" width="50%"   />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=2077" alt="AnushrutPandit" width="60%"   />
 
