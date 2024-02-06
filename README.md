@@ -1,19 +1,19 @@
-<h1 align="center">I'm Anushrut Pandit<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/h1>
+<h1 align="center">Hello I'm Anushrut Pandit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<a href="https://www.youtube.com/results?search_query=never+gonna+give+you+up"><img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="animated hello">
+<a href="https://www.youtube.com/results?search_query=never+gonna+give+you+up"><img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="animated hello">
 
 
 <div align = "left">
   
- 🔭 I’m currently working on Machine Learning
+ -🔭 I’m currently working on **Machine Learning**
 
- 👯 I’m looking to collaborate on- ML Projects
+ -👯 I’m looking to collaborate on - **ML Projects**
 
- 📫 How to reach me- anushrutpandit@gmail.com
+ -📫 How to reach me - **anushrutpandit@gmail.com**
  
 </div>
 
