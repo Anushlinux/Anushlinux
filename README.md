@@ -4,13 +4,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<img align = "left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
+<a href="https://www.youtube.com/results?search_query=never+gonna+give+you+up"><img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="animated hello">
 
- 🔭 I’m currently working on **Machine Learning**
 
- 👯 I’m looking to collaborate on **ML Projects**
+<div align = "left">
+  
+ 🔭 I’m currently working on Machine Learning
 
- 📫 How to reach me **anushrutpandit@gmail.com**
+ 👯 I’m looking to collaborate on - ML Projects
+
+ 📫 How to reach me anushrutpandit@gmail.com
+ 
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,10 +34,10 @@
 </a>
 </p>
 
-<div align="center">
+<div align="left">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Tech Stack</h2>
   
-<p align="center"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
 </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -79,9 +85,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushlinux&show_icons=true&theme=algolia&locale=en&layout=compact" alt="anushlinux" /></p>
 
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=Anushlinux&show_icons=true&theme=algolia)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushlinux&theme=algolia" alt="anushlinux" /></p>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=2077" alt="AnushrutPandit" width="50%"   />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=2077" alt="AnushrutPandit" width="50%"   />
 
