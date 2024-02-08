@@ -92,7 +92,7 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Anushlinux&show_icons=true&theme=algolia)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushlinux&theme=algolia" alt="anushlinux" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushlinux&theme=algolia" alt="anushlinux" /></p>
 
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=2077" alt="AnushrutPandit" width="60%"   />
 
