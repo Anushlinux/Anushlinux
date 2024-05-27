@@ -11,9 +11,9 @@
 <div align = "left">
 
   
- -🔭 I’m currently working on **Machine Learning**
+ -🔭 I’m currently learning **DSA**
 
- -👯 I’m looking to collaborate on - **ML Projects**
+ -👯 I’m looking to collaborate on - **Flutter projects**
 
  -📫 How to reach me - **anushrutpandit@gmail.com**
  
