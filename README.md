@@ -4,21 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<a href="https://www.youtube.com/results?search_query=never+gonna+give+you+up"><img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="animated hello">
+<a href="[https://www.youtube.com/results?search_query=never+gonna+give+you+up](https://www.youtube.com/watch?v=dQw4w9WgXcQ)"><img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="animated hello">
 
 ----------------------------------------------------------------
-
-<div align = "left">
-
-  
- -🔭 I’m currently learning **DSA**
-
- -👯 I’m looking to collaborate on - **Flutter projects**
-
- -📫 How to reach me - **anushrutpandit@gmail.com**
- 
-
-</div>
 
 
 
@@ -37,7 +25,7 @@
 </a>
 </p>
 
-<div align="left">
+<div align="left" margin="30">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Tech Stack</h2>
   
 <p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
