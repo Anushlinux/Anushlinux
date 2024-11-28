@@ -83,19 +83,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 October 2024 - To: 27 November 2024
+From: 31 October 2024 - To: 28 November 2024
 
-Total Time: 11 hrs 36 mins
+Total Time: 14 hrs 4 mins
 
-TypeScript    11 hrs 4 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.40 %
-YAML          9 mins          -------------------------   01.38 %
-JSON          6 mins          -------------------------   00.93 %
-Python        5 mins          -------------------------   00.73 %
-Image (svg)   4 mins          -------------------------   00.62 %
-Markdown      2 mins          -------------------------   00.35 %
-Git Config    1 min           -------------------------   00.26 %
+TypeScript    13 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.16 %
+YAML          9 mins          -------------------------   01.14 %
+JSON          6 mins          -------------------------   00.77 %
+Python        5 mins          -------------------------   00.60 %
+Image (svg)   4 mins          -------------------------   00.51 %
+Markdown      2 mins          -------------------------   00.29 %
+Git Config    1 min           -------------------------   00.23 %
 JavaScript    1 min           -------------------------   00.19 %
-TSConfig      0 secs          -------------------------   00.12 %
+TSConfig      0 secs          -------------------------   00.10 %
 Other         0 secs          -------------------------   00.02 %
 ```
 
