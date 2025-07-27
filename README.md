@@ -1,84 +1,25 @@
-<h1 align="center">Hello I'm Anushrut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true">
-  </a>
-</p>
-
-
-
-<div >
-  <h2 align="start"><b>👀 Profile Views</b></h2>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Anushlinux/count.svg" alt="Visitor Count"  width="250"/>
-  </div>
-</div>
-
-<h2 align="start">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Tech Stack
-</h2>
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="border:none;">
-    <tr>
-      <td align="center">
-        <strong>Frontend</strong><br>
-        <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="50"/></a>
-        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="50"/></a>
-        <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="50"/></a>
-        <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="50"/></a>
-        <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="50"/></a>
-        <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="50"/></a>
-        <a href="https://developer.mozilla.org/javascript"><img src="https://skillicons.dev/icons?i=js" height="50"/></a>
-        <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="50"/></a>
-        <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" height="50"/></a>
-        <a href="https://nuxtjs.org/"><img src="https://skillicons.dev/icons?i=nuxt" height="50"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Backend</strong><br>
-        <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50"/></a>
-        <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="50"/></a>
-        <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50"/></a>
-        <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" height="50"/></a>
-        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50"/></a>
-        <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="50"/></a>
-        <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="50"/></a>
-        <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="50"/></a>
-        <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="50"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>DevOps & Tools</strong><br>
-        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"/></a>
-        <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-        <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50"/></a>
-        <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="50"/></a>
-        <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="50"/></a>
-        <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="50"/></a>
-        <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="50"/></a>
-        <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="50"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Design & Others</strong><br>
-        <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="50"/></a>
-        <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" height="50"/></a>
-        <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" height="50"/></a>
-        <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="50"/></a>
-        <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="50"/></a>
-        <a href="https://soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" height="50"/></a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Anushrut%20Pandit&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=H.M.F.I.C&descAlignY=55&descSize=20" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Do+Hard+Stuff" alt="Typing SVG" />
+</div>
 
-### ⌛ Weekly Development Breakdown
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Anushlinux&label=Profile%20Views&color=brightgreen&style=flat-square&base=12000" alt="Anushlinux's Profile Views" width="180"/> 
+  <img src="https://img.shields.io/github/followers/Anushlinux?style=for-the-badge&color=00d9ff&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire-00d9ff?style=for-the-badge&logo=checkmarx" alt="Available"/>
+</div>
+
+<br/>
+
+
+<div align="center">
+  <h2>Development breakdown</h2>
+</div>
+
 
 <!--START_SECTION:waka-->
 
@@ -101,25 +42,225 @@ C++                1 hr 55 mins    -------------------------   00.75 %
 
 <!--END_SECTION:waka-->
 
-<h2>📊 GitHub Statistics</h2>
 
-<div align="start">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushlinux&show_icons=true&theme=algolia&locale=en&layout=compact" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Anushlinux&show_icons=true&theme=algolia" alt="GitHub Stats" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushlinux&theme=algolia" alt="GitHub Streak" /></p>
-  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=2077" alt="Profile Details" width="70%" /></p>
+---
+
+
+
+
+<table align="center" style="border: none; width: 100%;">
+  <tr>
+    <td valign="top" width="65%">
+    
+
+```typescript
+const createDeveloperProfile = (() => {
+  const secrets = {
+    identity: {
+      name: "Anushrut Pandit",
+      role: "Full-Stack Developer & System Architect",
+      location: "🌊 Navi Mumbai, India", 
+      timezone: "UTC+5:30",
+      experience: "3+ years crafting scalable wonders"
+    },
+    techStack: {
+      languages: [
+        { name: "TypeScript" }, 
+        { name: "Python"},
+        { name: "JavaScript"},
+        { name: "Go"}, 
+        { name: "Rust" } 
+      ],
+      frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS", "Vite"],
+      backend: ["Node.js", "Express", "Django", "GraphQL", "WebSockets"],
+      cloud: ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"],
+      databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
+      devOps: ["GitHub Actions", "Jenkins", "Prometheus"]
+    },
+  };
+
+  return () => ({
+    revealIdentity: () => ({ ...secrets.identity }),
+    unleashTechStack: () => ({ ...secrets.techStack }),
+    showcaseProjects: () => secrets.projects.map(p => `${p.name}: ${p.desc} (${p.link})`),
+    echoTestimonials: () => secrets.testimonials.map(t => `"${t.words}" - ${t.source}`),
+    currentFocus: () => [
+      "Contextvault",
+    ],
+    whisperFunFact: () => "Vibe coding fuckin sucks"
+  });
+})();
+
+const developer = createDeveloperProfile();
+```
+
+
+
+
+
+</td>
+
+
+<td valign="top" width="35%">
+  <div align="center">
+    <img alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    
+   
+  </div>
+</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>⚡ Quick Stats Dashboard</h2>
 </div>
 
-<h2>🤝 Connect With Me</h2>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Anushlinux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&custom_title=GitHub%20Performance"/>
+      </td>
+      <td>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushlinux&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00d9ff&text_color=ffffff"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="start">
-  <a href="https://twitter.com/anushrut43047" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" alt="Twitter" />
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Anushlinux&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff&area=true" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠️ Technology Arsenal</h2>
+</div>
+
+<details align="center">
+<summary><b>🎨 Frontend Mastery</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,typescript,javascript,html,css,tailwind,sass,vite,webpack&theme=dark&perline=7" />
+</div>
+</details>
+
+<details align="center">
+<summary><b>⚙️ Backend & Infrastructure</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,go,rust,django,flask,express,fastapi,graphql,postgresql,mongodb,redis,supabase&theme=dark&perline=7" />
+</div>
+</details>
+
+<details align="center">
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,linux,nginx,grafana,prometheus&theme=dark&perline=7" />
+</div>
+</details>
+
+<details align="center">
+<summary><b>🔧 Tools & Productivity</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,git,github,figma,notion,postman,discord,vercel,railway&theme=dark&perline=7" />
+</div>
+</details>
+
+---
+
+<div align="center">
+  <h2>📈 Contribution Metrics</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushlinux&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushlinux&theme=tokyonight&hide_border=true" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anushlinux&theme=tokyonight&hide_border=true" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anushlinux&theme=tokyonight&hide_border=true" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anushlinux&theme=tokyonight&utcOffset=5.5&hide_border=true" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>🏆 Achievement Showcase</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anushlinux&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&rank=-C,-?" />
+</div>
+
+---
+
+
+
+
+<div align="center">
+  <h2>📫 Find me on</h2>
+</div>
+
+<div align="center">
+  <a href="https://twitter.com/anushrut43047">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=1DA1F2" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/anushrut pandit" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/anushrut-pandit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/anushlinux" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="80" alt="Instagram" />
+  <a href="https://instagram.com/anushlinux">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.gg/yourserver">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://calendly.com/anushrut" target="_blank">
+    <img src="https://img.shields.io/badge/📅%20Schedule%20a%20Call-00d9ff?style=for-the-badge&logoColor=white" alt="Schedule Call"/>
+  </a>
+  <a href="https://anushrut.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00d9ff?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://blog.anushrut.dev" target="_blank">
+    <img src="https://img.shields.io/badge/📝%20Blog-00d9ff?style=for-the-badge&logoColor=white" alt="Blog"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>💰 Support My Work</h2>
+  <p>If you find my projects helpful, consider supporting me!</p>
+  
+  <a href="https://github.com/sponsors/Anushlinux">
+    <img src="https://img.shields.io/badge/💝%20GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+  <a href="https://buymeacoffee.com/anushrut">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer" />
+</div>
