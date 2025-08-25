@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2024 - To: 24 August 2025
+From: 31 October 2024 - To: 25 August 2025
 
 Total Time: 290 hrs 53 mins
 
-TypeScript         120 hrs 42 mins >>>>>>>>>>---------------   41.29 %
+TypeScript         120 hrs 43 mins >>>>>>>>>>---------------   41.29 %
 Python             50 hrs 22 mins  >>>>---------------------   17.23 %
 Vue.js             46 hrs 3 mins   >>>>---------------------   15.76 %
 JavaScript         36 hrs 37 mins  >>>----------------------   12.53 %
