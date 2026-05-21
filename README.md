@@ -26,17 +26,18 @@
 ```txt
 From: 31 October 2024 - To: 20 May 2026
 
-Total Time: 327 hrs 7 mins
+Total Time: 328 hrs 43 mins
 
-TypeScript          140 hrs 9 mins  >>>>>>>>>>>--------------   42.28 %
-Python              53 hrs 28 mins  >>>>---------------------   16.13 %
+TypeScript          141 hrs 6 mins  >>>>>>>>>>>--------------   42.57 %
+Python              53 hrs 33 mins  >>>>---------------------   16.16 %
 Vue.js              46 hrs 18 mins  >>>----------------------   13.97 %
 JavaScript          38 hrs 48 mins  >>>----------------------   11.71 %
 CSS                 10 hrs 51 mins  >------------------------   03.28 %
 Bash                5 hrs 36 mins   -------------------------   01.69 %
-JSON                5 hrs 7 mins    -------------------------   01.55 %
+JSON                5 hrs 18 mins   -------------------------   01.60 %
 HTML                4 hrs 40 mins   -------------------------   01.41 %
-Other               4 hrs 22 mins   -------------------------   01.32 %
+Text                3 hrs 53 mins   -------------------------   01.17 %
+PHP                 3 hrs 24 mins   -------------------------   01.03 %
 ```
 
 <!--END_SECTION:waka-->
