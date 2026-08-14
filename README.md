@@ -1,40 +1,59 @@
-# Anushrut Pandit
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="./assets/profile-hero-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="./assets/profile-hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img src="./assets/profile-hero-light.svg" alt="Anushrut Pandit, product engineer in Mumbai, building Smalltalk" width="100%">
+</picture>
 
-I’m a product engineer in Mumbai, currently building
-[Smalltalk](https://github.com/Anushlinux/smalltalk): an open-source, local-first
-macOS app for returning to interrupted work.
+<p align="center">
+  <a href="https://github.com/Anushlinux/smalltalk"><strong>Smalltalk</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Anushlinux/smalltalk/releases/latest">Download for macOS</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/Anushlinux">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/anushlinux">LinkedIn</a>
+</p>
 
-Smalltalk reconstructs the task you were working on, the point you reached, and
-a safe next step from sparse local evidence. When it cannot support an answer,
-it says so instead of inventing one.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anushlinux&label=views&color=8b949e&style=flat" alt="Anushrut's GitHub profile views">
+</p>
 
-[Download the latest macOS build](https://github.com/Anushlinux/smalltalk/releases/latest)
-· [Explore the Smalltalk source](https://github.com/Anushlinux/smalltalk)
+## Building now
 
-## What I’m building now
+### [Smalltalk](https://github.com/Anushlinux/smalltalk)
 
-I’m extending Smalltalk from one-off interruption recovery into a small,
-self-maintaining task system. The current prototype work includes:
+**Leave any task. Come back to the right next move.**
 
-- A durable local task list with explicit history and restart-safe state.
-- Continue answers bound to one task and that task’s own evidence.
-- Shadow proposals that can suggest changes without touching the visible list.
-- Tightly gated automation that remains observational until real-world accuracy
-  is proven.
+Smalltalk is an open-source, local-first macOS app for returning to interrupted
+work. It reconstructs the task you were working on, the point you reached, and
+a safe next step from sparse local evidence. When the evidence is too thin, it
+says so instead of inventing an answer.
 
-The rule underneath all of it is simple: captured activity is evidence, model
-output is a proposal, and neither becomes task truth without local validation.
+I’m currently extending it from one-off recovery into a small,
+self-maintaining task system:
 
-## How it is built
+- durable task truth with explicit history and restart-safe state;
+- Continue answers bound to one task and that task’s own evidence;
+- shadow proposals that can learn without changing the visible list;
+- tightly gated automation that must earn authority from real-world accuracy.
 
-Smalltalk spans **Rust and Tauri** for the desktop runtime, **Swift** for the
-native macOS layer, **React and TypeScript** for the app, **SQLite** for local
-state, and **Cloudflare and Supabase** for the optional hosted path.
+> Captured activity is evidence. Model output is a proposal. Local validation
+> decides what becomes task truth.
 
-I care about precise product behavior: safe defaults, inspectable decisions,
-and systems that admit when they do not know.
+## Under the hood
 
-## Elsewhere
+```text
+desktop       Rust · Tauri · Swift
+interface     React · TypeScript
+local truth   SQLite
+hosted path   Cloudflare · Supabase
+```
 
-[Anushrut on X](https://x.com/Anushlinux) ·
-[Anushrut on LinkedIn](https://www.linkedin.com/in/anushlinux)
+I care about product behavior that stays precise under uncertainty: safe
+defaults, inspectable decisions, and systems that admit when they do not know.
+
+<p align="center">
+  <sub>Mumbai, India · building in public as <a href="https://github.com/Anushlinux">@Anushlinux</a></sub>
+</p>

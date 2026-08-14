@@ -1,0 +1,53 @@
+<svg width="1280" height="460" viewBox="0 0 1280 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Anushrut Pandit — building Smalltalk</title>
+  <desc id="desc">A dark green and soft white profile banner with Anushrut Pandit's name and a Smalltalk Continue card.</desc>
+  <defs>
+    <filter id="card-shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000000" flood-opacity="0.30"/>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#F3F5F2" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="458" rx="28" fill="#101816" stroke="#34413E" stroke-width="2"/>
+  <path d="M28 28H694V432H28V28Z" fill="url(#grid)"/>
+  <path d="M694 1H1251C1266.46 1 1279 13.536 1279 29V431C1279 446.464 1266.46 459 1251 459H694V1Z" fill="#122D28"/>
+  <path d="M694 1V459" stroke="#34413E"/>
+
+  <g transform="translate(62 58)">
+    <rect width="11" height="11" rx="5.5" fill="#70C7B5"/>
+    <text x="22" y="11" fill="#A9BAB5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="650">PRODUCT ENGINEER · MUMBAI</text>
+
+    <text x="-3" y="113" fill="#F3F5F2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="760" letter-spacing="-2.8">Anushrut</text>
+    <text x="-3" y="190" fill="#F3F5F2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="760" letter-spacing="-2.8">Pandit</text>
+
+    <path d="M0 232H540" stroke="#34413E"/>
+    <text x="0" y="276" fill="#879B95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">BUILDING NOW</text>
+    <text x="0" y="321" fill="#70C7B5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="720" letter-spacing="-0.8">Smalltalk</text>
+    <text x="171" y="319" fill="#A9BAB5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">Return to unfinished work.</text>
+  </g>
+
+  <g transform="translate(748 50)" filter="url(#card-shadow)">
+    <rect width="468" height="360" rx="22" fill="#16221F" stroke="#40504C"/>
+    <circle cx="28" cy="28" r="5" fill="#C66B60"/>
+    <circle cx="46" cy="28" r="5" fill="#C79A50"/>
+    <circle cx="64" cy="28" r="5" fill="#70C7B5"/>
+    <text x="92" y="34" fill="#879B95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="650">SMALLTALK / CONTINUE</text>
+    <path d="M0 57H468" stroke="#34413E"/>
+
+    <text x="30" y="101" fill="#879B95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">YOU WERE</text>
+    <text x="30" y="139" fill="#F3F5F2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="700">Building Smalltalk</text>
+    <text x="30" y="170" fill="#A9BAB5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Turning interruption into a clear next move.</text>
+
+    <path d="M30 199H438" stroke="#34413E"/>
+    <text x="30" y="237" fill="#879B95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">NEXT</text>
+    <text x="30" y="275" fill="#F3F5F2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="650">Make task truth durable, local,</text>
+    <text x="30" y="303" fill="#F3F5F2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="650">and evidence-backed.</text>
+
+    <rect x="30" y="324" width="146" height="24" rx="12" fill="#1C3C35"/>
+    <circle cx="46" cy="336" r="4" fill="#70C7B5"/>
+    <text x="58" y="341" fill="#A7E0D4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700">LOCAL-FIRST</text>
+    <text x="326" y="341" fill="#879B95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">TECHNICAL ALPHA</text>
+  </g>
+</svg>
