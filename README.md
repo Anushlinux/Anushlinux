@@ -1,59 +1,42 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="./assets/profile-hero-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="./assets/profile-hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-  <img src="./assets/profile-hero-light.svg" alt="Anushrut Pandit, product engineer in Mumbai, building Smalltalk" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-masthead-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-masthead-light.svg">
+  <img src="./assets/profile-masthead-light.svg" alt="Anushrut Pandit, product engineer in Mumbai building calm, local-first products" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://github.com/Anushlinux/smalltalk"><strong>Smalltalk</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Anushlinux/smalltalk/releases/latest">Download for macOS</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/Anushlinux">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/anushlinux">LinkedIn</a>
-</p>
+I’m a product engineer in Mumbai building local-first software and evidence-backed
+AI systems. I’m currently focused on
+[Smalltalk](https://github.com/Anushlinux/smalltalk), an open-source macOS app
+that helps people return to interrupted work.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anushlinux&label=views&color=8b949e&style=flat" alt="Anushrut's GitHub profile views">
-</p>
+[Smalltalk](https://github.com/Anushlinux/smalltalk)
+· [Download for macOS](https://github.com/Anushlinux/smalltalk/releases/latest)
+· [X](https://x.com/Anushlinux)
+· [LinkedIn](https://www.linkedin.com/in/anushlinux)
 
-## Building now
+## Selected work
 
 ### [Smalltalk](https://github.com/Anushlinux/smalltalk)
 
-**Leave any task. Come back to the right next move.**
+A local-first macOS app that recovers what you were doing, where you left it,
+and the next useful action from sparse local evidence. It keeps model output
+bounded by inspectable facts and abstains when the evidence is too thin.
 
-Smalltalk is an open-source, local-first macOS app for returning to interrupted
-work. It reconstructs the task you were working on, the point you reached, and
-a safe next step from sparse local evidence. When the evidence is too thin, it
-says so instead of inventing an answer.
+`Rust` · `Tauri` · `Swift` · `React` · `TypeScript` · `SQLite`
 
-I’m currently extending it from one-off recovery into a small,
-self-maintaining task system:
+[Source](https://github.com/Anushlinux/smalltalk)
+· [Latest macOS release](https://github.com/Anushlinux/smalltalk/releases/latest)
 
-- durable task truth with explicit history and restart-safe state;
-- Continue answers bound to one task and that task’s own evidence;
-- shadow proposals that can learn without changing the visible list;
-- tightly gated automation that must earn authority from real-world accuracy.
+### Other projects
 
-> Captured activity is evidence. Model output is a proposal. Local validation
-> decides what becomes task truth.
+- **[Composio Integration Research](https://github.com/Anushlinux/research-assignment)** — An evidence-backed research pipeline for checking whether apps can be used as callable integrations. Missing evidence stays visible instead of being guessed.
+- **[Ritual](https://github.com/Anushlinux/ritual)** — A local desktop automation project that explores Claude-powered tool use with explicit approval boundaries for risky operations.
+- **[ChitChain](https://github.com/Anushlinux/ChitChain)** — A hackathon prototype for rotating savings and credit associations on Aptos, combining Move contracts with a Next.js wallet interface.
 
-## Under the hood
+## How I build
 
-```text
-desktop       Rust · Tauri · Swift
-interface     React · TypeScript
-local truth   SQLite
-hosted path   Cloudflare · Supabase
-```
+- Local truth before model output.
+- Honest uncertainty instead of invented answers.
+- Calm interfaces backed by inspectable systems.
 
-I care about product behavior that stays precise under uncertainty: safe
-defaults, inspectable decisions, and systems that admit when they do not know.
-
-<p align="center">
-  <sub>Mumbai, India · building in public as <a href="https://github.com/Anushlinux">@Anushlinux</a></sub>
-</p>
+<sub>Mumbai, India · <a href="https://x.com/Anushlinux">X</a> · <a href="https://www.linkedin.com/in/anushlinux">LinkedIn</a></sub>

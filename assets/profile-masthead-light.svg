@@ -1,0 +1,14 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Anushrut Pandit — product engineer in Mumbai</title>
+  <desc id="desc">A restrained editorial masthead about building calm, local-first products and evidence-backed software.</desc>
+
+  <rect width="1280" height="220" fill="#F6F8F6"/>
+
+  <circle cx="52" cy="39" r="6" fill="#237A61"/>
+  <text x="72" y="49" fill="#4B5B56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="650" letter-spacing="0.8">ANUSHRUT PANDIT · MUMBAI</text>
+
+  <text x="48" y="124" fill="#16201D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="720" textLength="1120" lengthAdjust="spacingAndGlyphs">Building calm, local-first products.</text>
+
+  <path d="M48 151H1232" stroke="#CAD3CF"/>
+  <text x="48" y="196" fill="#4B5B56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="520" textLength="930" lengthAdjust="spacingAndGlyphs">Product engineering · AI systems · desktop software</text>
+</svg>
